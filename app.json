@@ -7,7 +7,7 @@
  "env": {
  "BOT_TOKEN": 
 {"description":"Get This Value from https://telegram.dog/BotFather",
- "value": ""}
+ "value": "1568262728:AAHYhU0qYI2j-ZQ_qDc5oFQT8LbIrdD_lZU"}
 },
  "buildpacks":
  [{ "url": "heroku/python" } ]
