@@ -52,7 +52,7 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 
 ```
  #Clone the repo👾
- git clone https://github.com/Artis7eeR/ForwardTagRemoverBot.git
+ git clone https://github.com/Naveengnn/ForwardTagRemoverBot
  
  #Open The Folder📂
  cd ForwardTagRemoverBot
